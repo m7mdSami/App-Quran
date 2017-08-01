@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quran
 
 > app quran
@@ -16,3 +17,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# App-Quran
+>>>>>>> 3d87a6ad2ca1c74a581257664f2b8b3162944863
